@@ -51,7 +51,7 @@ education:
   - area: PhD Computer Science Engineering
     institution: Ghent University, Belgium
     date_start: 2019-09-01
-    date_end: est. 2025-11/12-xx
+    date_end: 2025-11-31 (est.)
     summary: |
       My doctoral research, titled _Urban Sensor Intelligence: Advancing Privacy-Preserving Smart City Surveillance in the City of Things Era_, was conducted under the guidance of [Prof Pieter Simoens](https://research.ugent.be/web/person/pieter-simoens-0/en) and [Prof Sam Leroux](https://research.ugent.be/web/person/sam-leroux-0/en). This project was fully funded by the AI Flanders strategic research program of the Flemish Government.
       Authored a total of five publications, consisting of three first-author articles in international peer-reviewed journals (e.g., IEEE Pervasive Computing, Sensors, and Frontiers in Robotics and AI), one co-authored journal article(Applied Intelligence), and one peer-reviewed workshop paper.
@@ -84,8 +84,8 @@ work:
     company_name: Ghent University
     company_url: ''
     company_logo: ''
-    date_start: '2021'
-    date_end: '2023'
+    date_start: 2021-09-01
+    date_end: 2023-02-28
     summary: |
       Key Achievements:
       - Mentored Bacholar's and Master's level students in machine learning course.
@@ -95,8 +95,8 @@ work:
     company_name: Taiwanese Student Association of Ghent University
     company_url: ''
     company_logo: ''
-    date_start: '2020'
-    date_end: '2022'
+    date_start: 2020-09-01
+    date_end: 2022-08-30
     summary: |
       Key Achievements:
       - Served as the primary liaison between the Taiwanese community in Ghent and the Taipei Representative Office in Belgium, facilitating official communication and resource dissemination.
@@ -107,8 +107,8 @@ work:
     company_name: Taipei Representative Office in the EU and Belgium, Science and Technology Division.
     company_url: ''
     company_logo: ''
-    date_start: '2020'
-    date_end: '2022'
+    date_start: 2020-01-27
+    date_end: 2022-05-21
     summary: |
       Key Achievements:
       - Analyzed and reported on key AI technology and policy developments within the European Union, translating complex technical information into concise strategic briefing reports.
@@ -117,8 +117,8 @@ work:
     company_name: Computer Vision Lab, Academia Sinica in Taiwan
     company_url: ''
     company_logo: ''
-    date_start: '2018'
-    date_end: '2019'
+    date_start: 2018-05-09
+    date_end: 2019-07-31
     summary: |
       Key Achievements:
       - Designed and developed a novel, unsupervised CNN-based outlier detection method that requires no training data or pre-trained models.
@@ -129,8 +129,8 @@ work:
     company_name: Smart Media & Intelligent Living Excellence Lab, NCKU, Taiwan
     company_url: ''
     company_logo: ''
-    date_start: '2017'
-    date_end: '2018'
+    date_start: 2017-09-01
+    date_end: 2018-04-30
     summary: |
       Key Achievements:
       - Collaborated with industry partner EverSTek to enhance an intelligent visual surveillance system, developing new features including an event-based video synopsis algorithm (published in _MVA'17_) using C++.
@@ -140,8 +140,8 @@ work:
     company_name: NCKU-ARTC Multidisciplinary Joint Research Project, Taiwan
     company_url: ''
     company_logo: ''
-    date_start: '2016'
-    date_end: '2015'
+    date_start: 2016-06-30
+    date_end: 2015-09-01
     summary: |
       Key Achievements:
       - Co-developed an innovative driver monitoring system in a multidisciplinary team, integrating visual appearance and ECG sensor data to improve vehicle safety.
@@ -151,8 +151,8 @@ work:
     company_name: National Cheng Kung University
     company_url: ''
     company_logo: ''
-    date_start: '2015'
-    date_end: '2015'
+    date_start: 2015-02-15
+    date_end: 2015-06-30
     summary: |
       Key Achievements:
       - Provided academic support for a fundamental, sophomore-level required course in the electrical engineering department.
@@ -164,8 +164,8 @@ work:
     company_name: Environmental Protection Bureau, Chiayi City Government, Taiwan
     company_url: ''
     company_logo: ''
-    date_start: '2016'
-    date_end: '2017'
+    date_start: 2016-08-04
+    date_end: 2017-07-21
     summary: |
       Responsibilities include:
       - Translated technical specifications and official documents for local solar-power-related green energy projects, while managing all related administrative workflows.
