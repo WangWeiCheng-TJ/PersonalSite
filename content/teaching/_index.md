@@ -14,9 +14,9 @@ sections:
     id: teaching
     content:
       title: Teaching
-      filters:
-        folders:
-          - teaching
+      # filters:
+      #   folders:
+      #     - teaching
     design:
       view: article-grid
       columns: 2
