@@ -226,7 +226,7 @@ languages:
 awards:
   - title: Dual Master's Thesis Award
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2016'
+    date: 2016-08-16
     awarder: The Chinese Image Processing and Pattern Society & The Chinese Institute of Electrical Engineering
     # icon: coursera
     summary: |
@@ -234,7 +234,7 @@ awards:
 
   - title: Honourary Member
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2016'
+    date: 2016-05-25
     awarder: The Phi Tau Phi Scholastic Honour Society
     # icon: coursera
     summary: |
@@ -242,7 +242,7 @@ awards:
 
   - title: Multiple International Awards
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2015'
+    date: 2015-11-21
     awarder: Asia Pacific ICT Alliance (APICTA) & International ICT Innovative Services Awards
     # icon: coursera
     summary: |
@@ -250,7 +250,7 @@ awards:
 
   - title: Multiple International Awards
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2015'
+    date: 2015-10-31
     awarder: Asia Pacific ICT Alliance (APICTA) & International ICT Innovative Services Awards
     # icon: coursera
     summary: |
