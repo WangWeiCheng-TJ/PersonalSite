@@ -35,11 +35,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I am a final-year Ph.D. candidate at Ghent University, passionate about bridging the gap between state-of-the-art AI research and high-impact, real-world applications. My doctoral research focuses on developing robust deep learning models for computer vision, specifically for multimodal audio and video analysis. The results of this work have been published in respected international journals, including IEEE Pervasive Computing.
         
-        Please reach out to collaborate 😃
+        Beyond my technical research, I have consistently sought opportunities to develop practical leadership and mentorship skills. As a frequent teaching assistant for "Applied Machine Learning," I have enjoyed guiding both undergraduate and Master's students, challenging them to work with real-world tools from Airbnb datasets to industry hardware like Sony's depth cameras. Concurrently, as President of the Taiwanese Student Association in Ghent, I served as the community's main contact and initiated a city-wide mentor-mentee program to support students and residents through the challenges of the pandemic.
+        
+        I am now seeking a role that blends deep research with practical leadership, where I can contribute to technical direction and mentor team members. While I am excited to tackle complex technical problems across any industry, I hold a strong personal interest in the potential for AI to address critical challenges in fields like humanitarian aid, medical innovation, and environmental protection.
+        
+        I'm always open to discussing new challenges and opportunities, feel free to reach out to collaborate.
     design:
       columns: '1'
   - block: collection
@@ -64,9 +66,9 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
+    id: mission
     content:
-      title: Recent & Upcoming Talks
+      title: Research Philosophy
       filters:
         folders:
           - event
