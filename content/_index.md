@@ -32,20 +32,16 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'Status'
-      subtitle: ''
-      text: |-
-        I will have my internal Ph.D. defense in October 2025 and am actively seeking full-time roles starting in early 2026.
-    design:
-      columns: '1'
-  - block: markdown
-    content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a final-year Ph.D. candidate at Ghent University, passionate about bridging the gap between state-of-the-art AI research and high-impact, real-world applications. My research focuses on developing robust deep learning models for computer vision, specifically for multimodal audio and video analysis.
+        I am a final-year Ph.D. candidate at Ghent University, passionate about bridging the gap between state-of-the-art AI research and high-impact, real-world applications. My doctoral research focuses on developing robust deep learning models for computer vision, specifically for multimodal audio and video analysis. The results of this work have been published in respected international journals, including IEEE Pervasive Computing.
         
-        Currently seeking a role that blends deep research with practical leadership, where I can contribute to technical direction and mentor team members. I'm always open to discussing new challenges and opportunities—feel free to reach out to collaborate.
+        Beyond my technical research, I have consistently sought opportunities to develop practical leadership and mentorship skills. As a frequent teaching assistant for "Applied Machine Learning," I have enjoyed guiding both undergraduate and Master's students, challenging them to work with real-world tools from Airbnb datasets to industry hardware like Sony's depth cameras. Concurrently, as President of the Taiwanese Student Association in Ghent, I served as the community's main contact and initiated a city-wide mentor-mentee program to support students and residents through the challenges of the pandemic.
+        
+        I am now seeking a role that blends deep research with practical leadership, where I can contribute to technical direction and mentor team members. While I am excited to tackle complex technical problems across any industry, I hold a strong personal interest in the potential for AI to address critical challenges in fields like humanitarian aid, medical innovation, and environmental protection.
+        
+        I'm always open to discussing new challenges and opportunities, feel free to reach out to collaborate.
     design:
       columns: '1'
   - block: collection
