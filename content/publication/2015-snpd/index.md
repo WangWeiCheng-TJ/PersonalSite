@@ -13,7 +13,6 @@ publication: '*2015 IEEE/ACIS 16th International Conference on Software Engineer
   Artificial Intelligence, Networking and Parallel/Distributed Computing (SNPD)*'
 doi: 10.1109/SNPD.2015.7176186
 tags:
-- Face;Face recognition;Support vector machines;Databases;Principal component analysis;Accuracy;Feature
-  extraction;Video gender recognition;Face descriptor;Support vector machine
+- Face descriptor; Video gender recognition
 page_type: 'publication'
 ---

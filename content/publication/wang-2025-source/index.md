@@ -12,4 +12,6 @@ publication_types:
 publication: '*Sensors*'
 featured: true
 page_type: 'publication'
+tags:
+- Source-Free; Unsupervised; Model Adaptation; Visual Surveillance; Randomly Initialized Networks
 ---

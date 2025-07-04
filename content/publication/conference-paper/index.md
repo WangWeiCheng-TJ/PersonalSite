@@ -37,7 +37,7 @@ tags:
   - Large Language Models
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 example: true
 page_type: 'publication'
 # Custom links (uncomment lines below)

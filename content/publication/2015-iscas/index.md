@@ -13,7 +13,6 @@ publication_types:
 publication: '*2015 IEEE International Symposium on Circuits and Systems (ISCAS)*'
 doi: 10.1109/ISCAS.2015.7168854
 tags:
-- Trajectory;Kinematics;Videos;Histograms;Surveillance;Computational modeling;Road
-  transportation;Trajectory kinematics descriptor;Event clustering;Visual surveillance
+- Road transportation; Trajectory kinematics descriptor; Event clustering; Visual surveillance
 page_type: 'publication'
 ---
