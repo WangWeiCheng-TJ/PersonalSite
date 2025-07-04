@@ -1,7 +1,7 @@
 ---
-title: Recent & Upcoming Talks
+title: Research Philosophy
 cms_exclude: true
-#url: talk
+#url: mission
 
 # View
 view: card
