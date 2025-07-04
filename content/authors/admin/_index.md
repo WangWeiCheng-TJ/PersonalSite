@@ -51,11 +51,12 @@ education:
   - area: PhD Computer Science Engineering
     institution: Ghent University, Belgium
     date_start: 2019-09-01
-    date_end: 2025-11-31 (est.)
+    date_end: 2025-12-31
     summary: |
       My doctoral research, titled _Urban Sensor Intelligence: Advancing Privacy-Preserving Smart City Surveillance in the City of Things Era_, was conducted under the guidance of [Prof Pieter Simoens](https://research.ugent.be/web/person/pieter-simoens-0/en) and [Prof Sam Leroux](https://research.ugent.be/web/person/sam-leroux-0/en). This project was fully funded by the AI Flanders strategic research program of the Flemish Government.
       Authored a total of five publications, consisting of three first-author articles in international peer-reviewed journals (e.g., IEEE Pervasive Computing, Sensors, and Frontiers in Robotics and AI), one co-authored journal article(Applied Intelligence), and one peer-reviewed workshop paper.
-    
+      I will have my internal PhD defense in early October and expect to graduate by the end of the year.
+          
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
