@@ -25,7 +25,8 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
 - Large Language Models
 
-featured: true
+# featured: true
+example: true
 
 links:
 - name: Custom Link
