@@ -17,4 +17,5 @@ tags:
 - Image color analysis;Image segmentation;Optimization;Quantization (signal);Shape;Iterative
   methods;Computational efficiency;Superpixel extraction;image segmentation;joint
   spatial and color quantizations
+page_type: 'publication'
 ---

@@ -14,4 +14,5 @@ publication: '*4th Workshop on Machine Learning for CyberSecurity at ECML PKDD 2
 links:
 - name: URL
   url: https://arxiv.org/abs/2208.12632
+page_type: 'publication'
 ---

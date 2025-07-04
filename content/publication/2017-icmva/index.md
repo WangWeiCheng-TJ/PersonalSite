@@ -14,4 +14,5 @@ publication: '*2017 Fifteenth IAPR International Conference on Machine Vision Ap
 doi: 10.23919/MVA.2017.7986848
 tags:
 - Trajectory;Kinematics;Surveillance;Visualization;Organizations;Streaming media;Cameras
+page_type: 'publication'
 ---

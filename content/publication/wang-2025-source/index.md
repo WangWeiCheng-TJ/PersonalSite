@@ -11,4 +11,5 @@ publication_types:
 - article-journal
 publication: '*Sensors*'
 featured: true
+page_type: 'publication'
 ---

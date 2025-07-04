@@ -14,4 +14,5 @@ doi: 10.1109/MPRV.2022.3210377
 tags:
 - Task analysis;Audio systems;Feature extraction;Privacy;Computational modeling;Microphones;Testing
 featured: true
+page_type: 'publication'
 ---

@@ -27,6 +27,7 @@ tags:
 
 # featured: true
 example: true
+page_type: 'publication'
 
 links:
 - name: Custom Link

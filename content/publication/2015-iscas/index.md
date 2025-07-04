@@ -15,4 +15,5 @@ doi: 10.1109/ISCAS.2015.7168854
 tags:
 - Trajectory;Kinematics;Videos;Histograms;Surveillance;Computational modeling;Road
   transportation;Trajectory kinematics descriptor;Event clustering;Visual surveillance
+page_type: 'publication'
 ---

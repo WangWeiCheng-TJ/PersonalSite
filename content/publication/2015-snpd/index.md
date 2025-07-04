@@ -15,4 +15,5 @@ doi: 10.1109/SNPD.2015.7176186
 tags:
 - Face;Face recognition;Support vector machines;Databases;Principal component analysis;Accuracy;Feature
   extraction;Video gender recognition;Face descriptor;Support vector machine
+page_type: 'publication'
 ---

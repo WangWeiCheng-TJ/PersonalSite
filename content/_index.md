@@ -49,8 +49,7 @@ sections:
     content:
       title: Featured Publications
       filters:
-        folders:
-          - publication
+        page_type: publication
         featured_only: true
     design:
       view: article-grid
@@ -70,8 +69,7 @@ sections:
       title: Recent Publications
       text: ""
       filters:
-        folders:
-          - publication
+        page_type: publication
         exclude_featured: false
     design:
       view: citation

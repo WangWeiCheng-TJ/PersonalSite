@@ -1,4 +1,6 @@
 ---
+# headless: true
+
 title: Publications
 cms_exclude: true
 

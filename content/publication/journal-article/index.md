@@ -30,6 +30,7 @@ tags:
 - Source Themes
 # featured: false
 # example: true
+page_type: 'publication'
 
 # links:
 # - name: ""

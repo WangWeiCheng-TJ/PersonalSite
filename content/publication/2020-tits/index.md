@@ -18,4 +18,5 @@ tags:
 - Vehicles;Face;Monitoring;Mouth;Accidents;Computational modeling;Advanced driver
   assistance systems;driver monitoring systems;sparse representation;temporal face
   descriptors
+page_type: 'publication'
 ---

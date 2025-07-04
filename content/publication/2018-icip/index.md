@@ -15,4 +15,5 @@ tags:
 - Trajectory;Acceleration;Entropy;Feature extraction;Event detection;Clustering algorithms;Discrete
   Fourier transforms;Video surveillance;event detection;multiple feature representations;trajectory
   clustering
+page_type: 'publication'
 ---

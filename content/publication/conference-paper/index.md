@@ -39,7 +39,7 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 example: true
-
+page_type: 'publication'
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link

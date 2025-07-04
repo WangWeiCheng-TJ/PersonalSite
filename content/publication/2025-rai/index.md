@@ -17,4 +17,5 @@ links:
   url: 
     https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1490718
 featured: true
+page_type: 'publication'
 ---
