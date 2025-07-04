@@ -15,4 +15,5 @@ doi: 10.1109/TCSVT.2016.2629340
 tags:
 - Videos;Surveillance;Visualization;Object recognition;Spatiotemporal phenomena;Optimization;Trajectory;Feature
   representation;Markov random fields (MRFs);video surveillance
+featured: true
 ---

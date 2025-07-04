@@ -10,4 +10,5 @@ publishDate: '2025-07-04T19:01:18.801980Z'
 publication_types:
 - article-journal
 publication: '*Sensors*'
+featured: true
 ---
