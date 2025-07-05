@@ -8,10 +8,10 @@ main:
     url: /
     weight: 10
   - name: Papers
-    url: /#papers
+    url: /#publications
     weight: 11
   - name: Research Philosophy
-    url: /#mission
+    url: post/mission/
     weight: 12
   # - name: News
   #   url: /#news

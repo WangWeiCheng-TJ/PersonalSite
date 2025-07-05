@@ -58,3 +58,6 @@ features:
     enable: false
   privacy_pack:
     enable: false
+  custom_assets: true
+  # Enable custom assets such as custom CSS and JS.
+    # THIS IS THE MASTER SWITCH YOU NEED TO TURN ON.
